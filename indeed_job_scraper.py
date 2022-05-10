@@ -145,7 +145,7 @@ def main(job_title, job_location, filepath, email=None):
 
 if __name__ == '__main__':
     # job search settings
-    title = 'Data Scientist'
+    title = 'Software Developer'
     loc = 'Charlotte NC'
     path = 'data_scientist_jobs.csv'
 
